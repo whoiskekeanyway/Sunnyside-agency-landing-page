@@ -6,13 +6,12 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-
-
 
 
 ## Overview
@@ -24,6 +23,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+![](screenshot.png)
 
 
 ### Links
@@ -41,7 +41,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Javascript
-
 
 
 ### What I learned
@@ -92,8 +91,6 @@ I used this for the navbar toggle button, add active class to nav-list when clic
 ```
 
 
-
-
 ## Author
 
 - Website - [scriptsandtags.com](https://www.scriptsandtags.com/)
@@ -101,6 +98,3 @@ I used this for the navbar toggle button, add active class to nav-list when clic
 - Twitter - [@scriptsandtags](https://www.twitter.com/scriptsandtags)
 
 
-
-# Sunnyside-agency-landing-page
-# Sunnyside-agency-landing-page
